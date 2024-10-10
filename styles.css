@@ -23,7 +23,7 @@ body {
     justify-content: center;
     align-items: start;
 
-    height: 100dvh;
+    min-height: 100dvh;
     gap: 27px;
     padding: 56px 0;
 }
@@ -173,6 +173,7 @@ textarea {
     color: var(--itens-background);
     background-color: var(--primary-color);
     position: relative;
+    border: none;
 }
 
 
