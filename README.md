@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Code Connect
 
 Este projeto é uma aplicação web que permite ao usuário fazer o upload de uma imagem, visualizar a imagem carregada e adicionar tags descritivas. Além disso, o usuário pode "publicar" o projeto, simulando o envio das informações para um banco de dados e tudo de forma assíncrona.
 
